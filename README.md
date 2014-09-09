@@ -6,4 +6,4 @@ This repository will contain all the work I do for this course, mostly code, as
 I'm using evernote to take notes. As usual, I will try to cover the code with
 tests.
 
-All material &copy; Pratik Mallya
+Unless noted otherwise, all material &copy; Pratik Mallya
